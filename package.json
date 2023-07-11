@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://abduldaim-ad.github.io/user_management_rtk",
+  "homepage": "https://abduldaim-ad.github.io/user_management_rtk",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
